@@ -1,0 +1,1 @@
+export const baseURL = "https://obscure-tor-13310.herokuapp.com"export const withoutHTTPBaseURL = "obscure-tor-13310.herokuapp.com/"

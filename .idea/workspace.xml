@@ -11,10 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47b1d3eb-57d2-409b-bf77-f8fc0bdd9cd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bitly/firebase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bitly-react.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bitly-react.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constants.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Dashboard/Dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Dashboard/Dashboard.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Dashboard/Dashboard.js" afterDir="false" />
@@ -22,9 +19,6 @@
       <change beforePath="$PROJECT_DIR$/../bitly/.idea/bitly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bitly/.idea/bitly.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bitly/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bitly/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bitly/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bitly/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bitly/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../bitly/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bitly/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../bitly/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bitly/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../bitly/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../bitly" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hgqF7aCHg7iWvSeOFBK5RNf0iX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -76,7 +70,8 @@
       <workItem from="1600445276967" duration="6133000" />
       <workItem from="1600497558642" duration="19987000" />
       <workItem from="1600584983725" duration="2812000" />
-      <workItem from="1600588641970" duration="13530000" />
+      <workItem from="1600588641970" duration="13925000" />
+      <workItem from="1600606864738" duration="8136000" />
     </task>
     <servers />
   </component>
