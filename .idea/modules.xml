@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../bitly/.idea/bitly.iml" filepath="$PROJECT_DIR$/../bitly/.idea/bitly.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bitly-react.iml" filepath="$PROJECT_DIR$/.idea/bitly-react.iml" />
     </modules>
   </component>

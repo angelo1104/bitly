@@ -11,14 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47b1d3eb-57d2-409b-bf77-f8fc0bdd9cd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/bitly-transp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bitly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bitly/firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bitly-react.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bitly-react.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Dashboard/Dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Dashboard/Dashboard.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Dashboard/Dashboard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Login/Login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitly/.idea/bitly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../bitly/.idea/bitly.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitly/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bitly/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitly/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bitly/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitly/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../bitly/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitly/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../bitly/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitly/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../bitly/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,16 +34,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../bitly" />
   </component>
   <component name="ProjectId" id="1hgqF7aCHg7iWvSeOFBK5RNf0iX" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -50,7 +56,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bitly" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -70,7 +76,7 @@
       <workItem from="1600445276967" duration="6133000" />
       <workItem from="1600497558642" duration="19987000" />
       <workItem from="1600584983725" duration="2812000" />
-      <workItem from="1600588641970" duration="5385000" />
+      <workItem from="1600588641970" duration="13530000" />
     </task>
     <servers />
   </component>
@@ -93,6 +99,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="462" y="116" key="FileChooserDialogImpl" timestamp="1600600621229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="116" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600600621229" />
     <state width="1342" height="172" key="GridCell.Tab.0.bottom" timestamp="1600588849845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
