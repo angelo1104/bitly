@@ -1,0 +1,1 @@
+import React from "react";import "./SocialSignInButton.css"function SocialSignInButton({companyClass,companyName}){    return(        <button className={'social-signin-button btn btn-primary'}>            <i className={`social-signin fa ${companyClass}`}></i>            {companyName}        </button>    )}export default SocialSignInButton;
