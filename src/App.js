@@ -9,6 +9,7 @@ import Home from "./Components/Home/Home";
 import Login from "./Components/Login/Login";
 import {auth} from "./firebase";
 import {useStateValue} from "./StateProvider";
+import Dashboard from "./Components/Dashboard/Dashboard";
 
 function App() {
     //eslint-disable-next-line
@@ -37,6 +38,9 @@ function App() {
       <Router>
         <div className="App">
           <Switch>
+              <Route path={'/dashboard'}>
+                  <Dashboard/>
+              </Route>
               <Route path={'/login'}>
                   <Login login={true}/>
               </Route>
